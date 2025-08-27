@@ -38,7 +38,7 @@ cd weather-forecasting-pipeline
 2. **Install Python dependencies:**  
 ```bash
 pip install -r requirements.txt
-
+```
 3. **Deploy AWS resources:**  
 - Create **S3 buckets** for raw and processed data.
 - Create **DynamoDB table** with **datehour** as **partition key** and **ID** as **sort key**.
