@@ -34,7 +34,7 @@ This project implements a **serverless, automated weather data processing system
 ```bash
 git clone https://github.com/yourusername/weather-forecasting-pipeline.git
 cd weather-forecasting-pipeline
-
+```
 2. **Install Python dependencies:**  
 ```bash
 pip install -r requirements.txt
