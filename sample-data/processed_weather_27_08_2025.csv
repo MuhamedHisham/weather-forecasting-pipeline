@@ -1,0 +1,285 @@
+country,city,temp_c,humidity,condition,date,time
+egypt,cairo,26.3,61,partly cloudy,2025-08-27,05:11
+egypt,cairo,26.3,61,partly cloudy,2025-08-27,05:13
+egypt,cairo,26.3,61,partly cloudy,2025-08-27,05:15
+egypt,cairo,26.3,61,partly cloudy,2025-08-27,05:17
+egypt,cairo,26.1,61,sunny,2025-08-27,05:19
+egypt,cairo,26.1,61,sunny,2025-08-27,05:21
+egypt,cairo,26.1,61,sunny,2025-08-27,05:23
+egypt,cairo,26.1,61,sunny,2025-08-27,05:25
+egypt,cairo,26.1,61,sunny,2025-08-27,05:27
+egypt,cairo,26.1,61,sunny,2025-08-27,05:29
+egypt,cairo,26.1,61,sunny,2025-08-27,05:31
+egypt,cairo,26.1,61,sunny,2025-08-27,05:33
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,05:35
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,05:37
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,05:39
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,05:41
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,05:43
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,05:45
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,05:47
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,05:49
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,05:51
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,05:53
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,05:55
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,05:57
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,05:59
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,06:01
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:03
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:05
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:07
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:09
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:11
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:13
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:15
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:17
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:19
+egypt,cairo,27.0,58,partly cloudy,2025-08-27,06:21
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:23
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:25
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:27
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:29
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:31
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:33
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:35
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:37
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:39
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:41
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:43
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:45
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:47
+egypt,cairo,27.1,58,partly cloudy,2025-08-27,06:49
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,06:51
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,06:53
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,06:55
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,06:57
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,06:59
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,07:01
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,07:03
+egypt,cairo,27.3,58,partly cloudy,2025-08-27,07:05
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,07:07
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,07:09
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,07:11
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,07:13
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,07:15
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,07:17
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,07:19
+egypt,cairo,27.2,58,partly cloudy,2025-08-27,07:21
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:23
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:25
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:27
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:29
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:31
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:33
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:35
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:37
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:39
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:41
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:43
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:45
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:47
+egypt,cairo,28.2,55,partly cloudy,2025-08-27,07:49
+egypt,cairo,28.3,55,partly cloudy,2025-08-27,07:51
+egypt,cairo,28.3,55,partly cloudy,2025-08-27,07:53
+egypt,cairo,28.3,55,partly cloudy,2025-08-27,07:55
+egypt,cairo,28.3,55,partly cloudy,2025-08-27,07:57
+egypt,cairo,28.3,55,partly cloudy,2025-08-27,07:59
+egypt,cairo,28.3,55,partly cloudy,2025-08-27,08:01
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:03
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:05
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:07
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:09
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:11
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:13
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:15
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:17
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:19
+egypt,cairo,28.4,55,partly cloudy,2025-08-27,08:21
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:23
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:25
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:27
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:29
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:31
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:33
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:35
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:37
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:39
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:41
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:43
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:45
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:47
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:49
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:51
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:53
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:55
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:57
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,08:59
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,09:01
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,09:03
+egypt,cairo,29.3,52,partly cloudy,2025-08-27,09:05
+egypt,cairo,29.2,52,partly cloudy,2025-08-27,09:07
+egypt,cairo,29.2,52,partly cloudy,2025-08-27,09:09
+egypt,cairo,29.2,52,partly cloudy,2025-08-27,09:11
+egypt,cairo,29.2,52,partly cloudy,2025-08-27,09:13
+egypt,cairo,29.2,52,partly cloudy,2025-08-27,09:15
+egypt,cairo,29.2,52,partly cloudy,2025-08-27,09:17
+egypt,cairo,29.2,52,partly cloudy,2025-08-27,09:19
+egypt,cairo,29.2,52,partly cloudy,2025-08-27,09:21
+egypt,cairo,30.2,49,sunny,2025-08-27,09:23
+egypt,cairo,30.2,49,sunny,2025-08-27,09:25
+egypt,cairo,30.2,49,sunny,2025-08-27,09:27
+egypt,cairo,30.2,49,sunny,2025-08-27,09:29
+egypt,cairo,30.2,49,sunny,2025-08-27,09:31
+egypt,cairo,30.2,49,sunny,2025-08-27,09:33
+egypt,cairo,30.3,49,sunny,2025-08-27,09:35
+egypt,cairo,30.3,49,sunny,2025-08-27,09:37
+egypt,cairo,30.3,49,sunny,2025-08-27,09:39
+egypt,cairo,30.3,49,sunny,2025-08-27,09:41
+egypt,cairo,30.3,49,sunny,2025-08-27,09:43
+egypt,cairo,30.3,49,sunny,2025-08-27,09:45
+egypt,cairo,30.3,49,sunny,2025-08-27,09:47
+egypt,cairo,30.3,49,sunny,2025-08-27,09:49
+egypt,cairo,30.0,46,sunny,2025-08-27,09:51
+egypt,cairo,30.0,46,sunny,2025-08-27,09:53
+egypt,cairo,30.0,46,sunny,2025-08-27,09:55
+egypt,cairo,30.0,46,sunny,2025-08-27,09:57
+egypt,cairo,30.0,46,sunny,2025-08-27,09:59
+egypt,cairo,30.0,46,sunny,2025-08-27,10:01
+egypt,cairo,30.0,46,sunny,2025-08-27,10:03
+egypt,cairo,30.0,46,sunny,2025-08-27,10:05
+egypt,cairo,30.4,46,sunny,2025-08-27,10:07
+egypt,cairo,30.4,46,sunny,2025-08-27,10:09
+egypt,cairo,30.4,46,sunny,2025-08-27,10:11
+egypt,cairo,30.4,46,sunny,2025-08-27,10:13
+egypt,cairo,30.4,46,sunny,2025-08-27,10:15
+egypt,cairo,30.4,46,sunny,2025-08-27,10:17
+egypt,cairo,30.4,46,sunny,2025-08-27,10:19
+egypt,cairo,30.4,46,sunny,2025-08-27,10:21
+egypt,cairo,31.1,38,sunny,2025-08-27,10:23
+egypt,cairo,31.1,38,sunny,2025-08-27,10:25
+egypt,cairo,31.1,38,sunny,2025-08-27,10:27
+egypt,cairo,31.1,38,sunny,2025-08-27,10:29
+egypt,cairo,31.1,38,sunny,2025-08-27,10:31
+egypt,cairo,31.1,38,sunny,2025-08-27,10:33
+egypt,cairo,32.3,38,sunny,2025-08-27,10:35
+egypt,cairo,32.3,38,sunny,2025-08-27,10:37
+egypt,cairo,32.3,38,sunny,2025-08-27,10:39
+egypt,cairo,32.3,38,sunny,2025-08-27,10:41
+egypt,cairo,32.3,38,sunny,2025-08-27,10:43
+egypt,cairo,32.3,38,sunny,2025-08-27,10:45
+egypt,cairo,32.3,38,sunny,2025-08-27,10:47
+egypt,cairo,32.3,38,sunny,2025-08-27,10:49
+egypt,cairo,32.0,38,sunny,2025-08-27,10:51
+egypt,cairo,32.0,38,sunny,2025-08-27,10:53
+egypt,cairo,32.0,38,sunny,2025-08-27,10:55
+egypt,cairo,32.0,38,sunny,2025-08-27,10:57
+egypt,cairo,32.0,38,sunny,2025-08-27,10:59
+egypt,cairo,32.0,38,sunny,2025-08-27,11:01
+egypt,cairo,32.0,38,sunny,2025-08-27,11:03
+egypt,cairo,32.0,38,sunny,2025-08-27,11:05
+egypt,cairo,32.3,38,sunny,2025-08-27,11:07
+egypt,cairo,32.3,38,sunny,2025-08-27,11:09
+egypt,cairo,32.3,38,sunny,2025-08-27,11:11
+egypt,cairo,32.3,38,sunny,2025-08-27,11:13
+egypt,cairo,32.3,38,sunny,2025-08-27,11:15
+egypt,cairo,32.3,38,sunny,2025-08-27,11:17
+egypt,cairo,32.4,36,sunny,2025-08-27,11:19
+egypt,cairo,32.4,36,sunny,2025-08-27,11:21
+egypt,cairo,32.4,36,sunny,2025-08-27,11:23
+egypt,cairo,32.4,36,sunny,2025-08-27,11:25
+egypt,cairo,32.4,36,sunny,2025-08-27,11:27
+egypt,cairo,32.4,36,sunny,2025-08-27,11:29
+egypt,cairo,32.4,36,sunny,2025-08-27,11:31
+egypt,cairo,32.4,36,sunny,2025-08-27,11:33
+egypt,cairo,32.1,34,sunny,2025-08-27,11:35
+egypt,cairo,32.1,34,sunny,2025-08-27,11:37
+egypt,cairo,32.1,34,sunny,2025-08-27,11:39
+egypt,cairo,32.1,34,sunny,2025-08-27,11:41
+egypt,cairo,32.1,34,sunny,2025-08-27,11:43
+egypt,cairo,32.1,34,sunny,2025-08-27,11:45
+egypt,cairo,32.1,34,sunny,2025-08-27,11:47
+egypt,cairo,32.1,34,sunny,2025-08-27,11:49
+egypt,cairo,32.1,34,sunny,2025-08-27,11:51
+egypt,cairo,32.1,34,sunny,2025-08-27,11:53
+egypt,cairo,32.1,34,sunny,2025-08-27,11:55
+egypt,cairo,32.1,34,sunny,2025-08-27,11:57
+egypt,cairo,32.1,34,sunny,2025-08-27,11:59
+egypt,cairo,32.1,34,sunny,2025-08-27,12:01
+egypt,cairo,32.3,34,sunny,2025-08-27,12:03
+egypt,cairo,32.3,34,sunny,2025-08-27,12:05
+egypt,cairo,32.3,34,sunny,2025-08-27,12:07
+egypt,cairo,32.3,34,sunny,2025-08-27,12:09
+egypt,cairo,32.3,34,sunny,2025-08-27,12:11
+egypt,cairo,32.3,34,sunny,2025-08-27,12:13
+egypt,cairo,32.3,34,sunny,2025-08-27,12:15
+egypt,cairo,32.3,34,sunny,2025-08-27,12:17
+egypt,cairo,32.3,34,sunny,2025-08-27,12:19
+egypt,cairo,32.3,34,sunny,2025-08-27,12:21
+egypt,cairo,33.2,32,sunny,2025-08-27,12:23
+egypt,cairo,33.2,32,sunny,2025-08-27,12:25
+egypt,cairo,33.2,32,sunny,2025-08-27,12:27
+egypt,cairo,33.2,32,sunny,2025-08-27,12:29
+egypt,cairo,33.2,32,sunny,2025-08-27,12:31
+egypt,cairo,33.2,32,sunny,2025-08-27,12:33
+egypt,cairo,33.2,32,sunny,2025-08-27,12:35
+egypt,cairo,33.2,32,sunny,2025-08-27,12:37
+egypt,cairo,33.2,32,sunny,2025-08-27,12:39
+egypt,cairo,33.2,32,sunny,2025-08-27,12:41
+egypt,cairo,33.2,32,sunny,2025-08-27,12:43
+egypt,cairo,33.2,32,sunny,2025-08-27,12:45
+egypt,cairo,33.2,32,sunny,2025-08-27,12:47
+egypt,cairo,33.2,32,sunny,2025-08-27,12:49
+egypt,cairo,33.0,30,sunny,2025-08-27,12:51
+egypt,cairo,33.0,30,sunny,2025-08-27,12:53
+egypt,cairo,33.0,30,sunny,2025-08-27,12:55
+egypt,cairo,33.0,30,sunny,2025-08-27,12:57
+egypt,cairo,33.0,30,sunny,2025-08-27,12:59
+egypt,cairo,33.0,30,sunny,2025-08-27,13:01
+egypt,cairo,33.0,30,sunny,2025-08-27,13:03
+egypt,cairo,33.0,30,sunny,2025-08-27,13:05
+egypt,cairo,33.2,30,sunny,2025-08-27,13:07
+egypt,cairo,33.2,30,sunny,2025-08-27,13:09
+egypt,cairo,33.2,30,sunny,2025-08-27,13:11
+egypt,cairo,33.2,30,sunny,2025-08-27,13:13
+egypt,cairo,33.2,30,sunny,2025-08-27,13:15
+egypt,cairo,33.2,30,sunny,2025-08-27,13:17
+egypt,cairo,33.2,30,sunny,2025-08-27,13:19
+egypt,cairo,33.2,30,sunny,2025-08-27,13:21
+egypt,cairo,33.3,30,sunny,2025-08-27,13:23
+egypt,cairo,33.3,30,sunny,2025-08-27,13:25
+egypt,cairo,33.3,30,sunny,2025-08-27,13:27
+egypt,cairo,33.3,30,sunny,2025-08-27,13:29
+egypt,cairo,33.3,30,sunny,2025-08-27,13:31
+egypt,cairo,33.3,30,sunny,2025-08-27,13:33
+egypt,cairo,33.1,28,sunny,2025-08-27,13:35
+egypt,cairo,33.1,28,sunny,2025-08-27,13:37
+egypt,cairo,33.1,28,sunny,2025-08-27,13:39
+egypt,cairo,33.1,28,sunny,2025-08-27,13:41
+egypt,cairo,33.1,28,sunny,2025-08-27,13:43
+egypt,cairo,33.1,28,sunny,2025-08-27,13:45
+egypt,cairo,33.1,28,sunny,2025-08-27,13:47
+egypt,cairo,33.1,28,sunny,2025-08-27,13:49
+egypt,cairo,33.3,28,sunny,2025-08-27,13:51
+egypt,cairo,33.3,28,sunny,2025-08-27,13:53
+egypt,cairo,33.3,28,sunny,2025-08-27,13:55
+egypt,cairo,33.3,28,sunny,2025-08-27,13:57
+egypt,cairo,33.3,28,sunny,2025-08-27,13:59
+egypt,cairo,33.3,28,sunny,2025-08-27,14:01
+egypt,cairo,33.3,28,sunny,2025-08-27,14:03
+egypt,cairo,33.3,28,sunny,2025-08-27,14:05
+egypt,cairo,33.3,28,sunny,2025-08-27,14:07
+egypt,cairo,33.3,28,sunny,2025-08-27,14:09
+egypt,cairo,33.3,28,sunny,2025-08-27,14:11
+egypt,cairo,33.3,28,sunny,2025-08-27,14:13
+egypt,cairo,33.3,28,sunny,2025-08-27,14:15
+egypt,cairo,33.3,28,sunny,2025-08-27,14:17
+egypt,cairo,33.3,30,sunny,2025-08-27,14:19
+egypt,cairo,33.3,30,sunny,2025-08-27,14:21
+egypt,cairo,33.3,30,sunny,2025-08-27,14:23
+egypt,cairo,33.3,30,sunny,2025-08-27,14:25
+egypt,cairo,33.3,30,sunny,2025-08-27,14:27
+egypt,cairo,33.3,30,sunny,2025-08-27,14:29
+egypt,cairo,33.3,30,sunny,2025-08-27,14:31
+egypt,cairo,33.3,30,sunny,2025-08-27,14:33
+egypt,cairo,33.3,30,sunny,2025-08-27,14:35
+egypt,cairo,33.3,30,sunny,2025-08-27,14:37
