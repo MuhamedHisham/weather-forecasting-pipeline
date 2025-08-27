@@ -47,6 +47,27 @@ pip install -r requirements.txt
 - Set up **EventBridge rule** to trigger collector Lambda every hour.
 - Configure **IAM roles** with proper permissions for Lambda, EC2, S3, and DynamoDB.
 
+**Usage Example**
+To fetch hourly aggregated weather data:
+```bash
+curl https://l1d7b8v0s6.execute-api.us-east-1.amazonaws.com/prod/weather?datehour=2025_08_27_05
+```
+**Sample response:**
+```json
+[
+  {
+    'max_temp': Decimal('27.3'),
+    'avg_humidity': Decimal('59.44'),
+    'min_temp': Decimal('26.1'),
+    'avg_temp': Decimal('26.72'),
+    'datehour': '2025_08_27_05',
+    'ID': Decimal('2025082705'),
+    'country': 'egypt'
+  }
+]
+```
+
+
 
 
 
