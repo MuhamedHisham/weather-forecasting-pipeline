@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-readme_content = """
 # **Serverless Weather Forecasting Pipeline**
 
 ## **Overview**
@@ -53,7 +50,7 @@ To fetch hourly aggregated weather data:
 curl https://l1d7b8v0s6.execute-api.us-east-1.amazonaws.com/prod/weather?datehour=2025_08_27_05
 ```
 **Sample response:**
-```json
+```bash
 [
   {
     'max_temp': Decimal('27.3'),
